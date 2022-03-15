@@ -28,4 +28,3 @@ import Actions from "./Actions";
 }
 
 export default Tweet;
-
